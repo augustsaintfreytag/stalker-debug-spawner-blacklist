@@ -1,4 +1,4 @@
-(Cover image pending)
+![Gate Guards A 01](https://github.com/augustsaintfreytag/stalker-debug-spawner-blacklist/assets/7656669/23b5dd34-c6d5-47a2-931a-9b66d824663c)
 
 # STALKER Debug Spawner Blacklist
 
