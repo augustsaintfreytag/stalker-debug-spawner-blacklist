@@ -1,8 +1,8 @@
 ![Gate Guards A 01](https://github.com/augustsaintfreytag/stalker-debug-spawner-blacklist/assets/7656669/23b5dd34-c6d5-47a2-931a-9b66d824663c)
 
-# STALKER Debug Spawner Blacklist
+# STALKER Debug Spawner Changes
 
-A mod to remove a number of disabled items that by default appear in the Anomaly debug item spawner. Effectively cleans up the spawner interface to only show items that are actively used in the game and may be acquired in normal gameplay. Removes all items that either have no assigned localized name or no icon. Additionally removes the disabled toolkits made obsolete by Arti's *Streamlined Upgrades* mod.
+A mod to remove a number of disabled items that by default appear in the Anomaly debug item spawner. Effectively cleans up the spawner interface to only show items that are actively used in the game and may be acquired in normal gameplay. Removes all items that either have no assigned localized name or no icon. Additionally includes some small changes to item categorisation and removes the disabled toolkits made obsolete by Arti's *Streamlined Upgrades* mod.
 
 ## Approach
 
