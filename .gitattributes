@@ -1,2 +1,2 @@
 *			text=auto
-*.ltx		text eol=crlf working-tree-encoding=windows-1251
+*.ltx		text eol=crlf working-tree-encoding=windows-1251 linguist-language=Text
